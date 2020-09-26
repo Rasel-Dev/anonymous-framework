@@ -5,7 +5,7 @@ class Rout
     /**
      * Default Controller
      */
-    private $controller  = 'user';
+    private $controller  = 'welcome';
     private $method      = 'index';
     private $params      = [];
 
